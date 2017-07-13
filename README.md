@@ -39,7 +39,7 @@ This wrapper library's function uses Promises instead of callbacks. The ".then()
 ### Imports
 
 ```js
-import AndroidTextToSpeech from 'react-native-tts';
+import AndroidTextToSpeech from 'react-native-tts-for-android';
 ``` 
 
 ### Speaking
