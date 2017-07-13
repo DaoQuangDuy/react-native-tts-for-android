@@ -34,7 +34,6 @@ react-native link react-native-tts-for-android
 
 ## Usage
 
-This wrapper library's function uses Promises instead of callbacks. The ".then()" or es2016's `async await`(recommended) keywords should be used. 
 
 ### Imports
 
