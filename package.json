@@ -1,0 +1,25 @@
+{
+  "name": "react-native-tts-for-android",
+  "version": "0.0.1",
+  "description": "React Native Text-To-Speech wrapper module for android",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaoQuangDuy/react-native-tts-for-android.git"
+  },
+  "keywords": [
+    "react-native",
+    "tts",
+    "text-to-speech",
+    "android",
+    "react",
+    "speech",
+    "tts-android"
+  ],
+  "author": "Dao Quang Duy",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/DaoQuangDuy/react-native-tts-for-android/issues"
+  },
+  "homepage": "https://github.com/DaoQuangDuy/react-native-tts-for-android#readme"
+}
