@@ -1,5 +1,5 @@
 
-# react-native-android-text-to-speech
+# react-native-tts-for-android
 
 ## Getting started
 
